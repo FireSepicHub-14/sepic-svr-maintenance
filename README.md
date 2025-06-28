@@ -3,6 +3,7 @@ Sepic鯖のメンテナンス計画と変更ログ置き場
 
 
 > メンテナンスにあたって
+ - 使い方が分からないものは[HowToUseApp](/HowToUseAPP/README.md)を閲覧してください。
  - 変更にvelocityやminecraftを落とす必要がある際は、事前に最低でも@hereで連絡すること。
  - 変更にvelocityやminecraftを落とす必要がない場合は、簡易的な(メンションなし可)連絡をすること。
  - [`ScheduledChanges`](ScheduledChanges)にある変更内容が書かれたファイルは、その内容になるように変更したのち、[`ChangedLogs`](ChangedLogs)に移動をすること。
@@ -23,4 +24,4 @@ Sepic鯖のメンテナンス計画と変更ログ置き場
 <br><br><br>
 
 ※不備や追加情報があればお知らせください。
-readmeの変更日時 | day 2025.06.26 | time 0026/24
+readmeの変更日時 | day 2025.06.28 | time 1838/24
