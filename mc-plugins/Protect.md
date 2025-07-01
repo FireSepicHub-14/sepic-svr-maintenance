@@ -7,13 +7,18 @@ GithubやModrinthでは詳しく説明されていないので、日本語訳と
 <br>
 
 > 見出し
-- a
-- b
+- [コマンド](#Command)
+- [エリアフラグ](#AreaFlag)
     - ba
 
-<br><br><br>
+<br><br>
 
-## コマンド
+> サイトマップ
+- 
+
+<br><bre><br>
+
+## Command
 | command  |    説明  |permission|
 |----------|----------|----------|
 |`/area create <name> [<priority>]`|新しい保護エリアを作る|protect.command.area.create|
@@ -46,15 +51,11 @@ GithubやModrinthでは詳しく説明されていないので、日本語訳と
 |`/area schematic save <area>`|エリアのschematicを保存する <sup><span style="color: red; ">_検証待ち_</span></sup>|protect.command.area.schematic.save|
 |`/area select <area>`|既存エリアの領域を選択する<sub>(WorldWdit)</sub><sup><span style="color: red; ">_検証待ち_</span></sup>|worldedit.selection.pos|
 |`/area teleport <area>`|任意のエリアへTPする|protect.command.area.teleport|
+<br><br><br>
 
-
-
-
-
-
-
-
-k
+## AreaFlag
 |``|||
 |``|||
 |``|||
+
+## 
